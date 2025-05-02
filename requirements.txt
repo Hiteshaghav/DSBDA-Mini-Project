@@ -1,4 +1,4 @@
 pandas
 notebook
 streamlit
-pandas
+matplotlib
